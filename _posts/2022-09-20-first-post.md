@@ -11,4 +11,12 @@ Hello Github.io
 ==================
 
 
+Using Markdown to write posting :)
+
+To Learn :
+- markdown
+- Jekyll - for theme
+- how to make posting directories
+
+
 ###:)
